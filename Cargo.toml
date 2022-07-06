@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"grep-single-thread",
+	"grep-multi-thread",
+]
+
